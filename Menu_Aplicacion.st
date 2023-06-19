@@ -35,8 +35,3 @@ plataforma := Harcodeo_Contenido CrearHardcodeoContenido ObtenerPlataforma.
 salida inspect.
 
 
-
-
-
-
-
